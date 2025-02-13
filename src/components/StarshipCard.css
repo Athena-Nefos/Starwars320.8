@@ -1,0 +1,15 @@
+/* src/components/StarshipCard.css */
+.starship-card {
+    background-color: #222;
+    color: white;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 2px 2px 10px rgba(255, 255, 255, 0.2);
+    transition: transform 0.2s;
+    }
+    
+    .starship-card:hover {
+    transform: scale(1.05);
+    }
